@@ -1,4 +1,4 @@
-let calculateAngle = function(e, item, parent) {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>let calculateAngle = function(e, item, parent) {
         let dropShadowColor = `rgba(0, 0, 0, 0.3)`
         if(parent.getAttribute('data-filter-color') !== null) {
             dropShadowColor = parent.getAttribute('data-filter-color');
