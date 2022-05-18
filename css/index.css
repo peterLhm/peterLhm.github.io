@@ -5482,3 +5482,6 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+#page-header.full_page {
+  height: 50vh;
+}
